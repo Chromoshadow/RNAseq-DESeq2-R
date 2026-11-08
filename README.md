@@ -25,7 +25,7 @@ The dataset contains RNA-seq count data from three stages of neuronal differenti
 | Stage | Control samples | KMT2D-mutant samples |
 |---|---:|---:|
 | hiPSC | 3 | 3 |
-| Neural progenitors | 6* | 6 |
+| Neural progenitors | 6 | 6 |
 | Neurons | 2 | 3 |
 | **Total** | **11** | **12** |
 
