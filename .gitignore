@@ -1,0 +1,25 @@
+# R / RStudio
+.Rhistory
+.RData
+.RDataTmp*
+.Rproj.user/
+R-GSE289159.Rproj
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+
+# Raw data
+data/raw/
+
+# Temporary analysis outputs
+results/sample_description/
+results/initial_analysis/
+results/sex_qc/
+results/improved_analysis/
+
+results/biological_interpretation/
+results/functional_enrichment/
+results/targeted_cilia_analysis/
+results/concluding_analysis/
